@@ -1,0 +1,81 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,ofissaifreepc.akamaized.net,📍 台湾节点
+DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net,📍 台湾节点
+DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net,📍 台湾节点
+DOMAIN-SUFFIX,4gtvfree-mozai.4gtv.tv,📍 台湾节点
+DOMAIN-SUFFIX,4gtvfreepc-cds.cdn.hinet.net,📍 台湾节点
+DOMAIN-SUFFIX,ntd-tgc.cdn.hinet.net,📍 台湾节点
+DOMAIN-SUFFIX,api2.4gtv.tv,📍 台湾节点
+
+DOMAIN-SUFFIX,litv.tv,📍 台湾节点
+DOMAIN-SUFFIX,ofiii.com,📍 台湾节点
+DOMAIN-SUFFIX,4gtv.tv,📍 台湾节点
+DOMAIN-SUFFIX,hinet.net,📍 台湾节点
+DOMAIN-SUFFIX,insurancegogogo.com,📍 台湾节点
+DOMAIN-SUFFIX,live.iptv365.org,📍 台湾节点
+DOMAIN-SUFFIX,ntdofifreevcpc.akamaized.net,📍 台湾节点
+DOMAIN-SUFFIX,tv.iill.top,📍 台湾节点
+DOMAIN-SUFFIX,epg.v1.mk,📍 台湾节点
+DOMAIN-SUFFIX,akamaized.net,📍 台湾节点
+
+DOMAIN-SUFFIX,smart.pendy.dpdns.org,🇺🇲 美国节点
+DOMAIN-SUFFIX,sport.pendy.dpdns.org,🇺🇲 美国节点
+DOMAIN-SUFFIX,docker.livednow.dpdns.org,🇺🇲 美国节点
+DOMAIN-SUFFIX,4gtv.livednow.dpdns.org,🇺🇲 美国节点
+DOMAIN-SUFFIX,iptv.mydiver.eu.org,🇺🇲 美国节点
+
+
+DOMAIN-SUFFIX,astro.com,🇺🇲 美国节点
+DOMAIN-SUFFIX,livednow.com,📍 台湾节点
+DOMAIN-SUFFIX,163189.xyz,📍 台湾节点
+DOMAIN-SUFFIX,tptv.xyz,🇭🇰 香港节点
+DOMAIN-SUFFIX,aktv.top,🇭🇰 香港节点
+
+
+
+
+#匹配域名关键字
+DOMAIN-KEYWORD,hamivideo,📍 台湾节点
+DOMAIN-KEYWORD,1e100.net,🇺🇲 美国节点
+
+DOMAIN-KEYWORD,4gtv,📍 台湾节点
+DOMAIN-KEYWORD,ofiii,📍 台湾节点
+DOMAIN-KEYWORD,litv,📍 台湾节点
+
+
+#匹配域名
+DOMAIN,epg.v1.mk,📍 台湾节点
+
+DOMAIN,ntdofifreepc.akamaized.net,📍 台湾节点
+DOMAIN,ntdofifreepocpc.akamaized.net,📍 台湾节点
+DOMAIN,ofissaifreepc.akamaized.net,📍 台湾节点
+DOMAIN,ntdofifreepc.akamaized.net,📍 台湾节点
+DOMAIN,ntdofifreepocpc.akamaized.net,📍 台湾节点
+DOMAIN,ofissaifreepc.akamaized.net,📍 台湾节点
+
+
+# IP段匹配
+IP-CIDR,142.171.133.131/32,no-resolve
+IP-CIDR,103.115.43.2/32,no-resolve
+
+# 国外DNS
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
+DOMAIN-SUFFIX,dot.sb
+DOMAIN-SUFFIX,dns.umbrella.com
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,doh.dns.sb
+DOMAIN-SUFFIX,doh.opendns.com
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,hk-hkg.doh.sb
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,185.222.222.222/32,no-resolve
+IP-CIDR,208.67.222.222/32,no-resolve
+IP-CIDR,208.67.220.220/32,no-resolve
